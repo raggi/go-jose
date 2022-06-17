@@ -39,13 +39,13 @@ libraries in other languages.
 
 [Version 2](https://gopkg.in/go-jose/go-jose.v2)
 ([branch](https://github.com/go-jose/go-jose/tree/v2),
-[doc](https://godoc.org/gopkg.in/go-jose/go-jose.v2)) is the current stable version:
+[doc](https://godoc.org/gopkg.in/go-jose/go-jose.v2)):
 
     import "gopkg.in/go-jose/go-jose.v2"
 
 [Version 3](https://github.com/go-jose/go-jose)
 ([branch](https://github.com/go-jose/go-jose/tree/master),
-[doc](https://godoc.org/github.com/go-jose/go-jose)) is the under development/unstable version (not released yet):
+[doc](https://godoc.org/github.com/go-jose/go-jose)) is the current stable version:
 
     import "github.com/go-jose/go-jose/v3"
 
